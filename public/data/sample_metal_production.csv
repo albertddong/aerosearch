@@ -1,271 +1,271 @@
 date,line,metal,throughput,scrap_rate,yield_rate
-2025-05-25,Line 1,Aluminum,118,0.0419,0.9581
-2025-05-25,Line 1,Titanium,94,0.0393,0.9607
-2025-05-25,Line 1,Stainless Steel,100,0.0162,0.9838
-2025-05-25,Line 2,Aluminum,98,0.014,0.986
-2025-05-25,Line 2,Titanium,90,0.0446,0.9554
-2025-05-25,Line 2,Stainless Steel,115,0.0157,0.9843
-2025-05-25,Line 3,Aluminum,82,0.0108,0.9892
-2025-05-25,Line 3,Titanium,81,0.0389,0.9611
-2025-05-25,Line 3,Stainless Steel,109,0.0185,0.9815
-2025-05-26,Line 1,Aluminum,100,0.0347,0.9653
-2025-05-26,Line 1,Titanium,101,0.0103,0.9897
-2025-05-26,Line 1,Stainless Steel,104,0.0216,0.9784
-2025-05-26,Line 2,Aluminum,107,0.049,0.951
-2025-05-26,Line 2,Titanium,94,0.0282,0.9718
-2025-05-26,Line 2,Stainless Steel,82,0.0444,0.9556
-2025-05-26,Line 3,Aluminum,86,0.0168,0.9832
-2025-05-26,Line 3,Titanium,118,0.0105,0.9895
-2025-05-26,Line 3,Stainless Steel,104,0.0486,0.9514
-2025-05-27,Line 1,Aluminum,88,0.0106,0.9894
-2025-05-27,Line 1,Titanium,81,0.0374,0.9626
-2025-05-27,Line 1,Stainless Steel,86,0.0344,0.9656
-2025-05-27,Line 2,Aluminum,87,0.0114,0.9886
-2025-05-27,Line 2,Titanium,93,0.0256,0.9744
-2025-05-27,Line 2,Stainless Steel,119,0.0402,0.9598
-2025-05-27,Line 3,Aluminum,85,0.0183,0.9817
-2025-05-27,Line 3,Titanium,83,0.0174,0.9826
-2025-05-27,Line 3,Stainless Steel,97,0.041,0.959
-2025-05-28,Line 1,Aluminum,113,0.0258,0.9742
-2025-05-28,Line 1,Titanium,115,0.0339,0.9661
-2025-05-28,Line 1,Stainless Steel,94,0.0135,0.9865
-2025-05-28,Line 2,Aluminum,102,0.0308,0.9692
-2025-05-28,Line 2,Titanium,119,0.0438,0.9562
-2025-05-28,Line 2,Stainless Steel,97,0.0316,0.9684
-2025-05-28,Line 3,Aluminum,103,0.0243,0.9757
-2025-05-28,Line 3,Titanium,120,0.0219,0.9781
-2025-05-28,Line 3,Stainless Steel,80,0.0106,0.9894
-2025-05-29,Line 1,Aluminum,88,0.0409,0.9591
-2025-05-29,Line 1,Titanium,87,0.0102,0.9898
-2025-05-29,Line 1,Stainless Steel,90,0.018,0.982
-2025-05-29,Line 2,Aluminum,87,0.0392,0.9608
-2025-05-29,Line 2,Titanium,112,0.0342,0.9658
-2025-05-29,Line 2,Stainless Steel,118,0.036,0.964
-2025-05-29,Line 3,Aluminum,107,0.0445,0.9555
-2025-05-29,Line 3,Titanium,87,0.028,0.972
-2025-05-29,Line 3,Stainless Steel,112,0.0125,0.9875
-2025-05-30,Line 1,Aluminum,102,0.0368,0.9632
-2025-05-30,Line 1,Titanium,116,0.0392,0.9608
-2025-05-30,Line 1,Stainless Steel,119,0.021,0.979
-2025-05-30,Line 2,Aluminum,114,0.0289,0.9711
-2025-05-30,Line 2,Titanium,116,0.0489,0.9511
-2025-05-30,Line 2,Stainless Steel,82,0.0404,0.9596
-2025-05-30,Line 3,Aluminum,105,0.0194,0.9806
-2025-05-30,Line 3,Titanium,93,0.0298,0.9702
-2025-05-30,Line 3,Stainless Steel,88,0.0384,0.9616
-2025-05-31,Line 1,Aluminum,105,0.011,0.989
-2025-05-31,Line 1,Titanium,92,0.0181,0.9819
-2025-05-31,Line 1,Stainless Steel,111,0.0355,0.9645
-2025-05-31,Line 2,Aluminum,111,0.0378,0.9622
-2025-05-31,Line 2,Titanium,116,0.02,0.98
-2025-05-31,Line 2,Stainless Steel,94,0.0402,0.9598
-2025-05-31,Line 3,Aluminum,115,0.0477,0.9523
-2025-05-31,Line 3,Titanium,86,0.0216,0.9784
-2025-05-31,Line 3,Stainless Steel,101,0.0452,0.9548
-2025-06-01,Line 1,Aluminum,85,0.0283,0.9717
-2025-06-01,Line 1,Titanium,99,0.0457,0.9543
-2025-06-01,Line 1,Stainless Steel,90,0.023,0.977
-2025-06-01,Line 2,Aluminum,107,0.0243,0.9757
-2025-06-01,Line 2,Titanium,112,0.0209,0.9791
-2025-06-01,Line 2,Stainless Steel,106,0.0271,0.9729
-2025-06-01,Line 3,Aluminum,92,0.0444,0.9556
-2025-06-01,Line 3,Titanium,118,0.0166,0.9834
-2025-06-01,Line 3,Stainless Steel,106,0.0267,0.9733
-2025-06-02,Line 1,Aluminum,116,0.0377,0.9623
-2025-06-02,Line 1,Titanium,103,0.0477,0.9523
-2025-06-02,Line 1,Stainless Steel,111,0.0308,0.9692
-2025-06-02,Line 2,Aluminum,120,0.0262,0.9738
-2025-06-02,Line 2,Titanium,91,0.0201,0.9799
-2025-06-02,Line 2,Stainless Steel,81,0.0385,0.9615
-2025-06-02,Line 3,Aluminum,116,0.0214,0.9786
-2025-06-02,Line 3,Titanium,96,0.0207,0.9793
-2025-06-02,Line 3,Stainless Steel,81,0.0301,0.9699
-2025-06-03,Line 1,Aluminum,102,0.0211,0.9789
-2025-06-03,Line 1,Titanium,112,0.0354,0.9646
-2025-06-03,Line 1,Stainless Steel,81,0.0312,0.9688
-2025-06-03,Line 2,Aluminum,105,0.0494,0.9506
-2025-06-03,Line 2,Titanium,111,0.0337,0.9663
-2025-06-03,Line 2,Stainless Steel,90,0.0248,0.9752
-2025-06-03,Line 3,Aluminum,96,0.0391,0.9609
-2025-06-03,Line 3,Titanium,103,0.0288,0.9712
-2025-06-03,Line 3,Stainless Steel,113,0.0353,0.9647
-2025-06-04,Line 1,Aluminum,90,0.0427,0.9573
-2025-06-04,Line 1,Titanium,95,0.0434,0.9566
-2025-06-04,Line 1,Stainless Steel,85,0.0378,0.9622
-2025-06-04,Line 2,Aluminum,82,0.0336,0.9664
-2025-06-04,Line 2,Titanium,115,0.0107,0.9893
-2025-06-04,Line 2,Stainless Steel,82,0.0424,0.9576
-2025-06-04,Line 3,Aluminum,99,0.0358,0.9642
-2025-06-04,Line 3,Titanium,120,0.0376,0.9624
-2025-06-04,Line 3,Stainless Steel,118,0.0475,0.9525
-2025-06-05,Line 1,Aluminum,80,0.037,0.963
-2025-06-05,Line 1,Titanium,104,0.0184,0.9816
-2025-06-05,Line 1,Stainless Steel,110,0.0451,0.9549
-2025-06-05,Line 2,Aluminum,114,0.0191,0.9809
-2025-06-05,Line 2,Titanium,95,0.0427,0.9573
-2025-06-05,Line 2,Stainless Steel,81,0.0499,0.9501
-2025-06-05,Line 3,Aluminum,91,0.0323,0.9677
-2025-06-05,Line 3,Titanium,111,0.0353,0.9647
-2025-06-05,Line 3,Stainless Steel,88,0.0212,0.9788
-2025-06-06,Line 1,Aluminum,98,0.039,0.961
-2025-06-06,Line 1,Titanium,82,0.0443,0.9557
-2025-06-06,Line 1,Stainless Steel,112,0.0357,0.9643
-2025-06-06,Line 2,Aluminum,90,0.0474,0.9526
-2025-06-06,Line 2,Titanium,115,0.0459,0.9541
-2025-06-06,Line 2,Stainless Steel,99,0.0332,0.9668
-2025-06-06,Line 3,Aluminum,104,0.0365,0.9635
-2025-06-06,Line 3,Titanium,108,0.0214,0.9786
-2025-06-06,Line 3,Stainless Steel,97,0.0294,0.9706
-2025-06-07,Line 1,Aluminum,114,0.0361,0.9639
-2025-06-07,Line 1,Titanium,120,0.017,0.983
-2025-06-07,Line 1,Stainless Steel,83,0.0195,0.9805
-2025-06-07,Line 2,Aluminum,100,0.0172,0.9828
-2025-06-07,Line 2,Titanium,87,0.044,0.956
-2025-06-07,Line 2,Stainless Steel,96,0.0223,0.9777
-2025-06-07,Line 3,Aluminum,91,0.0304,0.9696
-2025-06-07,Line 3,Titanium,101,0.0206,0.9794
-2025-06-07,Line 3,Stainless Steel,109,0.0489,0.9511
-2025-06-08,Line 1,Aluminum,87,0.0352,0.9648
-2025-06-08,Line 1,Titanium,113,0.024,0.976
-2025-06-08,Line 1,Stainless Steel,112,0.0331,0.9669
-2025-06-08,Line 2,Aluminum,112,0.0178,0.9822
-2025-06-08,Line 2,Titanium,98,0.0329,0.9671
-2025-06-08,Line 2,Stainless Steel,96,0.0498,0.9502
-2025-06-08,Line 3,Aluminum,109,0.0482,0.9518
-2025-06-08,Line 3,Titanium,85,0.0248,0.9752
-2025-06-08,Line 3,Stainless Steel,120,0.0481,0.9519
-2025-06-09,Line 1,Aluminum,108,0.0271,0.9729
-2025-06-09,Line 1,Titanium,110,0.0485,0.9515
-2025-06-09,Line 1,Stainless Steel,112,0.013,0.987
-2025-06-09,Line 2,Aluminum,100,0.0176,0.9824
-2025-06-09,Line 2,Titanium,112,0.0227,0.9773
-2025-06-09,Line 2,Stainless Steel,97,0.0323,0.9677
-2025-06-09,Line 3,Aluminum,110,0.0438,0.9562
-2025-06-09,Line 3,Titanium,82,0.0328,0.9672
-2025-06-09,Line 3,Stainless Steel,103,0.0184,0.9816
-2025-06-10,Line 1,Aluminum,101,0.0243,0.9757
-2025-06-10,Line 1,Titanium,106,0.0218,0.9782
-2025-06-10,Line 1,Stainless Steel,105,0.0396,0.9604
-2025-06-10,Line 2,Aluminum,112,0.0155,0.9845
-2025-06-10,Line 2,Titanium,118,0.0217,0.9783
-2025-06-10,Line 2,Stainless Steel,105,0.0424,0.9576
-2025-06-10,Line 3,Aluminum,104,0.0345,0.9655
-2025-06-10,Line 3,Titanium,86,0.0301,0.9699
-2025-06-10,Line 3,Stainless Steel,99,0.036,0.964
-2025-06-11,Line 1,Aluminum,95,0.012,0.988
-2025-06-11,Line 1,Titanium,102,0.0111,0.9889
-2025-06-11,Line 1,Stainless Steel,113,0.0138,0.9862
-2025-06-11,Line 2,Aluminum,102,0.0369,0.9631
-2025-06-11,Line 2,Titanium,104,0.0162,0.9838
-2025-06-11,Line 2,Stainless Steel,101,0.0336,0.9664
-2025-06-11,Line 3,Aluminum,101,0.02,0.98
-2025-06-11,Line 3,Titanium,85,0.0221,0.9779
-2025-06-11,Line 3,Stainless Steel,116,0.0309,0.9691
-2025-06-12,Line 1,Aluminum,84,0.0283,0.9717
-2025-06-12,Line 1,Titanium,85,0.0121,0.9879
-2025-06-12,Line 1,Stainless Steel,109,0.0316,0.9684
-2025-06-12,Line 2,Aluminum,119,0.039,0.961
-2025-06-12,Line 2,Titanium,92,0.0488,0.9512
-2025-06-12,Line 2,Stainless Steel,109,0.0116,0.9884
-2025-06-12,Line 3,Aluminum,98,0.0276,0.9724
-2025-06-12,Line 3,Titanium,105,0.011,0.989
-2025-06-12,Line 3,Stainless Steel,102,0.0271,0.9729
-2025-06-13,Line 1,Aluminum,91,0.0264,0.9736
-2025-06-13,Line 1,Titanium,80,0.0277,0.9723
-2025-06-13,Line 1,Stainless Steel,111,0.032,0.968
-2025-06-13,Line 2,Aluminum,104,0.0364,0.9636
-2025-06-13,Line 2,Titanium,80,0.0482,0.9518
-2025-06-13,Line 2,Stainless Steel,118,0.0363,0.9637
-2025-06-13,Line 3,Aluminum,84,0.0345,0.9655
-2025-06-13,Line 3,Titanium,82,0.0199,0.9801
-2025-06-13,Line 3,Stainless Steel,95,0.0163,0.9837
-2025-06-14,Line 1,Aluminum,101,0.0106,0.9894
-2025-06-14,Line 1,Titanium,93,0.0137,0.9863
-2025-06-14,Line 1,Stainless Steel,109,0.0442,0.9558
-2025-06-14,Line 2,Aluminum,84,0.029,0.971
-2025-06-14,Line 2,Titanium,105,0.0405,0.9595
-2025-06-14,Line 2,Stainless Steel,100,0.0289,0.9711
-2025-06-14,Line 3,Aluminum,112,0.0286,0.9714
-2025-06-14,Line 3,Titanium,116,0.0259,0.9741
-2025-06-14,Line 3,Stainless Steel,89,0.048,0.952
-2025-06-15,Line 1,Aluminum,115,0.0118,0.9882
-2025-06-15,Line 1,Titanium,110,0.0106,0.9894
-2025-06-15,Line 1,Stainless Steel,98,0.0301,0.9699
-2025-06-15,Line 2,Aluminum,80,0.0316,0.9684
-2025-06-15,Line 2,Titanium,83,0.0346,0.9654
-2025-06-15,Line 2,Stainless Steel,95,0.0357,0.9643
-2025-06-15,Line 3,Aluminum,107,0.0334,0.9666
-2025-06-15,Line 3,Titanium,106,0.042,0.958
-2025-06-15,Line 3,Stainless Steel,91,0.0255,0.9745
-2025-06-16,Line 1,Aluminum,112,0.0283,0.9717
-2025-06-16,Line 1,Titanium,116,0.035,0.965
-2025-06-16,Line 1,Stainless Steel,80,0.0484,0.9516
-2025-06-16,Line 2,Aluminum,89,0.0183,0.9817
-2025-06-16,Line 2,Titanium,108,0.0128,0.9872
-2025-06-16,Line 2,Stainless Steel,110,0.0251,0.9749
-2025-06-16,Line 3,Aluminum,114,0.0235,0.9765
-2025-06-16,Line 3,Titanium,105,0.0228,0.9772
-2025-06-16,Line 3,Stainless Steel,105,0.0373,0.9627
-2025-06-17,Line 1,Aluminum,113,0.0204,0.9796
-2025-06-17,Line 1,Titanium,86,0.0147,0.9853
-2025-06-17,Line 1,Stainless Steel,90,0.0451,0.9549
-2025-06-17,Line 2,Aluminum,115,0.0267,0.9733
-2025-06-17,Line 2,Titanium,115,0.0171,0.9829
-2025-06-17,Line 2,Stainless Steel,88,0.0327,0.9673
-2025-06-17,Line 3,Aluminum,114,0.0496,0.9504
-2025-06-17,Line 3,Titanium,115,0.0249,0.9751
-2025-06-17,Line 3,Stainless Steel,118,0.0332,0.9668
-2025-06-18,Line 1,Aluminum,102,0.0472,0.9528
-2025-06-18,Line 1,Titanium,116,0.0195,0.9805
-2025-06-18,Line 1,Stainless Steel,92,0.0396,0.9604
-2025-06-18,Line 2,Aluminum,114,0.0141,0.9859
-2025-06-18,Line 2,Titanium,96,0.0314,0.9686
-2025-06-18,Line 2,Stainless Steel,99,0.0431,0.9569
-2025-06-18,Line 3,Aluminum,101,0.0219,0.9781
-2025-06-18,Line 3,Titanium,98,0.0256,0.9744
-2025-06-18,Line 3,Stainless Steel,91,0.0483,0.9517
-2025-06-19,Line 1,Aluminum,98,0.0137,0.9863
-2025-06-19,Line 1,Titanium,86,0.0483,0.9517
-2025-06-19,Line 1,Stainless Steel,110,0.048,0.952
-2025-06-19,Line 2,Aluminum,98,0.0297,0.9703
-2025-06-19,Line 2,Titanium,95,0.0279,0.9721
-2025-06-19,Line 2,Stainless Steel,114,0.0341,0.9659
-2025-06-19,Line 3,Aluminum,100,0.0401,0.9599
-2025-06-19,Line 3,Titanium,102,0.0413,0.9587
-2025-06-19,Line 3,Stainless Steel,118,0.0136,0.9864
-2025-06-20,Line 1,Aluminum,118,0.0498,0.9502
-2025-06-20,Line 1,Titanium,84,0.0395,0.9605
-2025-06-20,Line 1,Stainless Steel,108,0.024,0.976
-2025-06-20,Line 2,Aluminum,97,0.0487,0.9513
-2025-06-20,Line 2,Titanium,88,0.0405,0.9595
-2025-06-20,Line 2,Stainless Steel,96,0.014,0.986
-2025-06-20,Line 3,Aluminum,86,0.027,0.973
-2025-06-20,Line 3,Titanium,119,0.0129,0.9871
-2025-06-20,Line 3,Stainless Steel,106,0.0382,0.9618
-2025-06-21,Line 1,Aluminum,84,0.0305,0.9695
-2025-06-21,Line 1,Titanium,117,0.0495,0.9505
-2025-06-21,Line 1,Stainless Steel,80,0.0452,0.9548
-2025-06-21,Line 2,Aluminum,96,0.0479,0.9521
-2025-06-21,Line 2,Titanium,104,0.0337,0.9663
-2025-06-21,Line 2,Stainless Steel,115,0.0251,0.9749
-2025-06-21,Line 3,Aluminum,110,0.0293,0.9707
-2025-06-21,Line 3,Titanium,118,0.027,0.973
-2025-06-21,Line 3,Stainless Steel,105,0.0232,0.9768
-2025-06-22,Line 1,Aluminum,82,0.0201,0.9799
-2025-06-22,Line 1,Titanium,107,0.0329,0.9671
-2025-06-22,Line 1,Stainless Steel,99,0.0148,0.9852
-2025-06-22,Line 2,Aluminum,120,0.0398,0.9602
-2025-06-22,Line 2,Titanium,82,0.0333,0.9667
-2025-06-22,Line 2,Stainless Steel,104,0.0447,0.9553
-2025-06-22,Line 3,Aluminum,117,0.0275,0.9725
-2025-06-22,Line 3,Titanium,111,0.0322,0.9678
-2025-06-22,Line 3,Stainless Steel,100,0.0117,0.9883
-2025-06-23,Line 1,Aluminum,100,0.0497,0.9503
-2025-06-23,Line 1,Titanium,116,0.0201,0.9799
-2025-06-23,Line 1,Stainless Steel,98,0.0488,0.9512
-2025-06-23,Line 2,Aluminum,97,0.0166,0.9834
-2025-06-23,Line 2,Titanium,93,0.0218,0.9782
-2025-06-23,Line 2,Stainless Steel,80,0.0351,0.9649
-2025-06-23,Line 3,Aluminum,82,0.046,0.954
-2025-06-23,Line 3,Titanium,90,0.0212,0.9788
-2025-06-23,Line 3,Stainless Steel,111,0.0123,0.9877
+05-25,Line 1,Aluminum,118,0.0419,0.9581
+05-25,Line 1,Titanium,94,0.0393,0.9607
+05-25,Line 1,Stainless Steel,100,0.0162,0.9838
+05-25,Line 2,Aluminum,98,0.014,0.986
+05-25,Line 2,Titanium,90,0.0446,0.9554
+05-25,Line 2,Stainless Steel,115,0.0157,0.9843
+05-25,Line 3,Aluminum,82,0.0108,0.9892
+05-25,Line 3,Titanium,81,0.0389,0.9611
+05-25,Line 3,Stainless Steel,109,0.0185,0.9815
+05-26,Line 1,Aluminum,100,0.0347,0.9653
+05-26,Line 1,Titanium,101,0.0103,0.9897
+05-26,Line 1,Stainless Steel,104,0.0216,0.9784
+05-26,Line 2,Aluminum,107,0.049,0.951
+05-26,Line 2,Titanium,94,0.0282,0.9718
+05-26,Line 2,Stainless Steel,82,0.0444,0.9556
+05-26,Line 3,Aluminum,86,0.0168,0.9832
+05-26,Line 3,Titanium,118,0.0105,0.9895
+05-26,Line 3,Stainless Steel,104,0.0486,0.9514
+05-27,Line 1,Aluminum,88,0.0106,0.9894
+05-27,Line 1,Titanium,81,0.0374,0.9626
+05-27,Line 1,Stainless Steel,86,0.0344,0.9656
+05-27,Line 2,Aluminum,87,0.0114,0.9886
+05-27,Line 2,Titanium,93,0.0256,0.9744
+05-27,Line 2,Stainless Steel,119,0.0402,0.9598
+05-27,Line 3,Aluminum,85,0.0183,0.9817
+05-27,Line 3,Titanium,83,0.0174,0.9826
+05-27,Line 3,Stainless Steel,97,0.041,0.959
+05-28,Line 1,Aluminum,113,0.0258,0.9742
+05-28,Line 1,Titanium,115,0.0339,0.9661
+05-28,Line 1,Stainless Steel,94,0.0135,0.9865
+05-28,Line 2,Aluminum,102,0.0308,0.9692
+05-28,Line 2,Titanium,119,0.0438,0.9562
+05-28,Line 2,Stainless Steel,97,0.0316,0.9684
+05-28,Line 3,Aluminum,103,0.0243,0.9757
+05-28,Line 3,Titanium,120,0.0219,0.9781
+05-28,Line 3,Stainless Steel,80,0.0106,0.9894
+05-29,Line 1,Aluminum,88,0.0409,0.9591
+05-29,Line 1,Titanium,87,0.0102,0.9898
+05-29,Line 1,Stainless Steel,90,0.018,0.982
+05-29,Line 2,Aluminum,87,0.0392,0.9608
+05-29,Line 2,Titanium,112,0.0342,0.9658
+05-29,Line 2,Stainless Steel,118,0.036,0.964
+05-29,Line 3,Aluminum,107,0.0445,0.9555
+05-29,Line 3,Titanium,87,0.028,0.972
+05-29,Line 3,Stainless Steel,112,0.0125,0.9875
+05-30,Line 1,Aluminum,102,0.0368,0.9632
+05-30,Line 1,Titanium,116,0.0392,0.9608
+05-30,Line 1,Stainless Steel,119,0.021,0.979
+05-30,Line 2,Aluminum,114,0.0289,0.9711
+05-30,Line 2,Titanium,116,0.0489,0.9511
+05-30,Line 2,Stainless Steel,82,0.0404,0.9596
+05-30,Line 3,Aluminum,105,0.0194,0.9806
+05-30,Line 3,Titanium,93,0.0298,0.9702
+05-30,Line 3,Stainless Steel,88,0.0384,0.9616
+05-31,Line 1,Aluminum,105,0.011,0.989
+05-31,Line 1,Titanium,92,0.0181,0.9819
+05-31,Line 1,Stainless Steel,111,0.0355,0.9645
+05-31,Line 2,Aluminum,111,0.0378,0.9622
+05-31,Line 2,Titanium,116,0.02,0.98
+05-31,Line 2,Stainless Steel,94,0.0402,0.9598
+05-31,Line 3,Aluminum,115,0.0477,0.9523
+05-31,Line 3,Titanium,86,0.0216,0.9784
+05-31,Line 3,Stainless Steel,101,0.0452,0.9548
+06-01,Line 1,Aluminum,85,0.0283,0.9717
+06-01,Line 1,Titanium,99,0.0457,0.9543
+06-01,Line 1,Stainless Steel,90,0.023,0.977
+06-01,Line 2,Aluminum,107,0.0243,0.9757
+06-01,Line 2,Titanium,112,0.0209,0.9791
+06-01,Line 2,Stainless Steel,106,0.0271,0.9729
+06-01,Line 3,Aluminum,92,0.0444,0.9556
+06-01,Line 3,Titanium,118,0.0166,0.9834
+06-01,Line 3,Stainless Steel,106,0.0267,0.9733
+06-02,Line 1,Aluminum,116,0.0377,0.9623
+06-02,Line 1,Titanium,103,0.0477,0.9523
+06-02,Line 1,Stainless Steel,111,0.0308,0.9692
+06-02,Line 2,Aluminum,120,0.0262,0.9738
+06-02,Line 2,Titanium,91,0.0201,0.9799
+06-02,Line 2,Stainless Steel,81,0.0385,0.9615
+06-02,Line 3,Aluminum,116,0.0214,0.9786
+06-02,Line 3,Titanium,96,0.0207,0.9793
+06-02,Line 3,Stainless Steel,81,0.0301,0.9699
+06-03,Line 1,Aluminum,102,0.0211,0.9789
+06-03,Line 1,Titanium,112,0.0354,0.9646
+06-03,Line 1,Stainless Steel,81,0.0312,0.9688
+06-03,Line 2,Aluminum,105,0.0494,0.9506
+06-03,Line 2,Titanium,111,0.0337,0.9663
+06-03,Line 2,Stainless Steel,90,0.0248,0.9752
+06-03,Line 3,Aluminum,96,0.0391,0.9609
+06-03,Line 3,Titanium,103,0.0288,0.9712
+06-03,Line 3,Stainless Steel,113,0.0353,0.9647
+06-04,Line 1,Aluminum,90,0.0427,0.9573
+06-04,Line 1,Titanium,95,0.0434,0.9566
+06-04,Line 1,Stainless Steel,85,0.0378,0.9622
+06-04,Line 2,Aluminum,82,0.0336,0.9664
+06-04,Line 2,Titanium,115,0.0107,0.9893
+06-04,Line 2,Stainless Steel,82,0.0424,0.9576
+06-04,Line 3,Aluminum,99,0.0358,0.9642
+06-04,Line 3,Titanium,120,0.0376,0.9624
+06-04,Line 3,Stainless Steel,118,0.0475,0.9525
+06-05,Line 1,Aluminum,80,0.037,0.963
+06-05,Line 1,Titanium,104,0.0184,0.9816
+06-05,Line 1,Stainless Steel,110,0.0451,0.9549
+06-05,Line 2,Aluminum,114,0.0191,0.9809
+06-05,Line 2,Titanium,95,0.0427,0.9573
+06-05,Line 2,Stainless Steel,81,0.0499,0.9501
+06-05,Line 3,Aluminum,91,0.0323,0.9677
+06-05,Line 3,Titanium,111,0.0353,0.9647
+06-05,Line 3,Stainless Steel,88,0.0212,0.9788
+06-06,Line 1,Aluminum,98,0.039,0.961
+06-06,Line 1,Titanium,82,0.0443,0.9557
+06-06,Line 1,Stainless Steel,112,0.0357,0.9643
+06-06,Line 2,Aluminum,90,0.0474,0.9526
+06-06,Line 2,Titanium,115,0.0459,0.9541
+06-06,Line 2,Stainless Steel,99,0.0332,0.9668
+06-06,Line 3,Aluminum,104,0.0365,0.9635
+06-06,Line 3,Titanium,108,0.0214,0.9786
+06-06,Line 3,Stainless Steel,97,0.0294,0.9706
+06-07,Line 1,Aluminum,114,0.0361,0.9639
+06-07,Line 1,Titanium,120,0.017,0.983
+06-07,Line 1,Stainless Steel,83,0.0195,0.9805
+06-07,Line 2,Aluminum,100,0.0172,0.9828
+06-07,Line 2,Titanium,87,0.044,0.956
+06-07,Line 2,Stainless Steel,96,0.0223,0.9777
+06-07,Line 3,Aluminum,91,0.0304,0.9696
+06-07,Line 3,Titanium,101,0.0206,0.9794
+06-07,Line 3,Stainless Steel,109,0.0489,0.9511
+06-08,Line 1,Aluminum,87,0.0352,0.9648
+06-08,Line 1,Titanium,113,0.024,0.976
+06-08,Line 1,Stainless Steel,112,0.0331,0.9669
+06-08,Line 2,Aluminum,112,0.0178,0.9822
+06-08,Line 2,Titanium,98,0.0329,0.9671
+06-08,Line 2,Stainless Steel,96,0.0498,0.9502
+06-08,Line 3,Aluminum,109,0.0482,0.9518
+06-08,Line 3,Titanium,85,0.0248,0.9752
+06-08,Line 3,Stainless Steel,120,0.0481,0.9519
+06-09,Line 1,Aluminum,108,0.0271,0.9729
+06-09,Line 1,Titanium,110,0.0485,0.9515
+06-09,Line 1,Stainless Steel,112,0.013,0.987
+06-09,Line 2,Aluminum,100,0.0176,0.9824
+06-09,Line 2,Titanium,112,0.0227,0.9773
+06-09,Line 2,Stainless Steel,97,0.0323,0.9677
+06-09,Line 3,Aluminum,110,0.0438,0.9562
+06-09,Line 3,Titanium,82,0.0328,0.9672
+06-09,Line 3,Stainless Steel,103,0.0184,0.9816
+06-10,Line 1,Aluminum,101,0.0243,0.9757
+06-10,Line 1,Titanium,106,0.0218,0.9782
+06-10,Line 1,Stainless Steel,105,0.0396,0.9604
+06-10,Line 2,Aluminum,112,0.0155,0.9845
+06-10,Line 2,Titanium,118,0.0217,0.9783
+06-10,Line 2,Stainless Steel,105,0.0424,0.9576
+06-10,Line 3,Aluminum,104,0.0345,0.9655
+06-10,Line 3,Titanium,86,0.0301,0.9699
+06-10,Line 3,Stainless Steel,99,0.036,0.964
+06-11,Line 1,Aluminum,95,0.012,0.988
+06-11,Line 1,Titanium,102,0.0111,0.9889
+06-11,Line 1,Stainless Steel,113,0.0138,0.9862
+06-11,Line 2,Aluminum,102,0.0369,0.9631
+06-11,Line 2,Titanium,104,0.0162,0.9838
+06-11,Line 2,Stainless Steel,101,0.0336,0.9664
+06-11,Line 3,Aluminum,101,0.02,0.98
+06-11,Line 3,Titanium,85,0.0221,0.9779
+06-11,Line 3,Stainless Steel,116,0.0309,0.9691
+06-12,Line 1,Aluminum,84,0.0283,0.9717
+06-12,Line 1,Titanium,85,0.0121,0.9879
+06-12,Line 1,Stainless Steel,109,0.0316,0.9684
+06-12,Line 2,Aluminum,119,0.039,0.961
+06-12,Line 2,Titanium,92,0.0488,0.9512
+06-12,Line 2,Stainless Steel,109,0.0116,0.9884
+06-12,Line 3,Aluminum,98,0.0276,0.9724
+06-12,Line 3,Titanium,105,0.011,0.989
+06-12,Line 3,Stainless Steel,102,0.0271,0.9729
+06-13,Line 1,Aluminum,91,0.0264,0.9736
+06-13,Line 1,Titanium,80,0.0277,0.9723
+06-13,Line 1,Stainless Steel,111,0.032,0.968
+06-13,Line 2,Aluminum,104,0.0364,0.9636
+06-13,Line 2,Titanium,80,0.0482,0.9518
+06-13,Line 2,Stainless Steel,118,0.0363,0.9637
+06-13,Line 3,Aluminum,84,0.0345,0.9655
+06-13,Line 3,Titanium,82,0.0199,0.9801
+06-13,Line 3,Stainless Steel,95,0.0163,0.9837
+06-14,Line 1,Aluminum,101,0.0106,0.9894
+06-14,Line 1,Titanium,93,0.0137,0.9863
+06-14,Line 1,Stainless Steel,109,0.0442,0.9558
+06-14,Line 2,Aluminum,84,0.029,0.971
+06-14,Line 2,Titanium,105,0.0405,0.9595
+06-14,Line 2,Stainless Steel,100,0.0289,0.9711
+06-14,Line 3,Aluminum,112,0.0286,0.9714
+06-14,Line 3,Titanium,116,0.0259,0.9741
+06-14,Line 3,Stainless Steel,89,0.048,0.952
+06-15,Line 1,Aluminum,115,0.0118,0.9882
+06-15,Line 1,Titanium,110,0.0106,0.9894
+06-15,Line 1,Stainless Steel,98,0.0301,0.9699
+06-15,Line 2,Aluminum,80,0.0316,0.9684
+06-15,Line 2,Titanium,83,0.0346,0.9654
+06-15,Line 2,Stainless Steel,95,0.0357,0.9643
+06-15,Line 3,Aluminum,107,0.0334,0.9666
+06-15,Line 3,Titanium,106,0.042,0.958
+06-15,Line 3,Stainless Steel,91,0.0255,0.9745
+06-16,Line 1,Aluminum,112,0.0283,0.9717
+06-16,Line 1,Titanium,116,0.035,0.965
+06-16,Line 1,Stainless Steel,80,0.0484,0.9516
+06-16,Line 2,Aluminum,89,0.0183,0.9817
+06-16,Line 2,Titanium,108,0.0128,0.9872
+06-16,Line 2,Stainless Steel,110,0.0251,0.9749
+06-16,Line 3,Aluminum,114,0.0235,0.9765
+06-16,Line 3,Titanium,105,0.0228,0.9772
+06-16,Line 3,Stainless Steel,105,0.0373,0.9627
+06-17,Line 1,Aluminum,113,0.0204,0.9796
+06-17,Line 1,Titanium,86,0.0147,0.9853
+06-17,Line 1,Stainless Steel,90,0.0451,0.9549
+06-17,Line 2,Aluminum,115,0.0267,0.9733
+06-17,Line 2,Titanium,115,0.0171,0.9829
+06-17,Line 2,Stainless Steel,88,0.0327,0.9673
+06-17,Line 3,Aluminum,114,0.0496,0.9504
+06-17,Line 3,Titanium,115,0.0249,0.9751
+06-17,Line 3,Stainless Steel,118,0.0332,0.9668
+06-18,Line 1,Aluminum,102,0.0472,0.9528
+06-18,Line 1,Titanium,116,0.0195,0.9805
+06-18,Line 1,Stainless Steel,92,0.0396,0.9604
+06-18,Line 2,Aluminum,114,0.0141,0.9859
+06-18,Line 2,Titanium,96,0.0314,0.9686
+06-18,Line 2,Stainless Steel,99,0.0431,0.9569
+06-18,Line 3,Aluminum,101,0.0219,0.9781
+06-18,Line 3,Titanium,98,0.0256,0.9744
+06-18,Line 3,Stainless Steel,91,0.0483,0.9517
+06-19,Line 1,Aluminum,98,0.0137,0.9863
+06-19,Line 1,Titanium,86,0.0483,0.9517
+06-19,Line 1,Stainless Steel,110,0.048,0.952
+06-19,Line 2,Aluminum,98,0.0297,0.9703
+06-19,Line 2,Titanium,95,0.0279,0.9721
+06-19,Line 2,Stainless Steel,114,0.0341,0.9659
+06-19,Line 3,Aluminum,100,0.0401,0.9599
+06-19,Line 3,Titanium,102,0.0413,0.9587
+06-19,Line 3,Stainless Steel,118,0.0136,0.9864
+06-20,Line 1,Aluminum,118,0.0498,0.9502
+06-20,Line 1,Titanium,84,0.0395,0.9605
+06-20,Line 1,Stainless Steel,108,0.024,0.976
+06-20,Line 2,Aluminum,97,0.0487,0.9513
+06-20,Line 2,Titanium,88,0.0405,0.9595
+06-20,Line 2,Stainless Steel,96,0.014,0.986
+06-20,Line 3,Aluminum,86,0.027,0.973
+06-20,Line 3,Titanium,119,0.0129,0.9871
+06-20,Line 3,Stainless Steel,106,0.0382,0.9618
+06-21,Line 1,Aluminum,84,0.0305,0.9695
+06-21,Line 1,Titanium,117,0.0495,0.9505
+06-21,Line 1,Stainless Steel,80,0.0452,0.9548
+06-21,Line 2,Aluminum,96,0.0479,0.9521
+06-21,Line 2,Titanium,104,0.0337,0.9663
+06-21,Line 2,Stainless Steel,115,0.0251,0.9749
+06-21,Line 3,Aluminum,110,0.0293,0.9707
+06-21,Line 3,Titanium,118,0.027,0.973
+06-21,Line 3,Stainless Steel,105,0.0232,0.9768
+06-22,Line 1,Aluminum,82,0.0201,0.9799
+06-22,Line 1,Titanium,107,0.0329,0.9671
+06-22,Line 1,Stainless Steel,99,0.0148,0.9852
+06-22,Line 2,Aluminum,120,0.0398,0.9602
+06-22,Line 2,Titanium,82,0.0333,0.9667
+06-22,Line 2,Stainless Steel,104,0.0447,0.9553
+06-22,Line 3,Aluminum,117,0.0275,0.9725
+06-22,Line 3,Titanium,111,0.0322,0.9678
+06-22,Line 3,Stainless Steel,100,0.0117,0.9883
+06-23,Line 1,Aluminum,100,0.0497,0.9503
+06-23,Line 1,Titanium,116,0.0201,0.9799
+06-23,Line 1,Stainless Steel,98,0.0488,0.9512
+06-23,Line 2,Aluminum,97,0.0166,0.9834
+06-23,Line 2,Titanium,93,0.0218,0.9782
+06-23,Line 2,Stainless Steel,80,0.0351,0.9649
+06-23,Line 3,Aluminum,82,0.046,0.954
+06-23,Line 3,Titanium,90,0.0212,0.9788
+06-23,Line 3,Stainless Steel,111,0.0123,0.9877

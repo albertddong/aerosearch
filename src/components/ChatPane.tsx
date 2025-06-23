@@ -5,8 +5,11 @@ interface Message {
     text: string;
     sender: 'user' | 'ai';
 }
+interface ChatPaneProps {
+    onFirstUserMessage?: () => void;
+}
 
-const ChatPane: React.FC = () => {
+const ChatPane: React.FC<ChatPaneProps> = ({ onFirstUserMessage }) => {
     const [input, setInput] = useState('');
     const [messages, setMessages] = useState<Message[]>([]);
 
@@ -42,17 +45,22 @@ const ChatPane: React.FC = () => {
         return () => clearInterval(iv);
     }, []);
 
+    const [hasSent, setHasSent] = useState(false);
     const handleSend = () => {
         if (!input.trim()) return;
         setMessages((m) => [...m, { text: input, sender: 'user' }]);
         const userMsg = input;
         setInput('');
-        setTimeout(() => {
-            setMessages((m) => [
-                ...m,
-                { text: `AI: Responding to “${userMsg}”`, sender: 'ai' },
-            ]);
-        }, 500);
+        if (!hasSent && onFirstUserMessage) {
+            setHasSent(true);
+            onFirstUserMessage();
+        }
+        // setTimeout(() => {
+        //     setMessages((m) => [
+        //         ...m,
+        //         { text: `AI: Responding to “${userMsg}”`, sender: 'ai' },
+        //     ]);
+        // }, 500);
     };
 
     const handleChange = (e: ChangeEvent<HTMLInputElement>) =>
@@ -63,9 +71,9 @@ const ChatPane: React.FC = () => {
     };
 
     return (
-        <div className="w-full max-w-2xl mx-auto text-center space-y-4">
+        <div className="w-full max-w-2xl mx-auto text-center space-y-4 mt-20">
             {/* Messages */}
-            <h1 className="text-3xl text-white font-semibold mb-2">How can I help you today?</h1>
+            <h1 className="text-5xl text-white font-semibold mb-2">How can I help you today?</h1>
             <p className="text-lg text-gray-300 mb-4">Send in a message to update your dashboard!</p>
 
             <div className="space-y-2">

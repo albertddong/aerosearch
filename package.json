@@ -3,8 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@clerk/clerk-react": "^5.32.0",
+    "apexcharts": "^4.7.0",
     "chart.js": "^4.5.0",
     "flowbite": "^3.1.2",
+    "framer-motion": "^12.19.0",
     "papaparse": "^5.5.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",

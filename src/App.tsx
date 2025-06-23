@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import SignInPage from './components/SignInPage';
 import RoleSelectionPage from './components/RoleSelectionPage';
@@ -9,22 +9,23 @@ import bgImage1 from './assets/bg1.png';
 import bgImage2 from './assets/bg2.jpeg';
 import bgImage3 from './assets/bg3.png';
 
-const DashboardLayout: React.FC = () => (
-    <div className="relative min-h-screen flex flex-col bg-black"
-        style={{ backgroundImage: `url(${bgImage3})` }}>
-        {/* Top Navbar */}
-        <Navbar />
-        {/* Chat input at top-middle */}
-        <div className="w-full flex justify-center p-4">
-            <ChatPane />
-        </div>
-        {/* Empty dashboard canvas below */}
-        <main className="flex-1 p-4 overflow-auto">
-            <Dashboard />
-        </main>
 
-    </div>
-);
+
+const DashboardLayout: React.FC = () => {
+    const [showDashboard, setShowDashboard] = useState(false);
+
+    return (
+        <div className="relative min-h-screen flex flex-col bg-black" style={{ backgroundImage: `url(${bgImage3})` }}>
+            <Navbar />
+            <div className="w-full flex justify-center p-4">
+                <ChatPane onFirstUserMessage={() => setShowDashboard(true)} />
+            </div>
+            <main className="flex-1 p-4 overflow-auto">
+                {showDashboard && <Dashboard />}
+            </main>
+        </div>
+    );
+};
 
 const App: React.FC = () => (
     <Routes>
