@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Import Work Sans globally */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+
+@font-face {
+    font-family: "Termina";
+    src: local("Termina"),
+        url("./fonts/TerminaTest-Black.otf") format("opentype");
+    font-weight: normal;
+}
+
+body {
+    @apply bg-black text-gray-200;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.font-termina {
+    font-family: 'Termina', sans-serif;
+}
