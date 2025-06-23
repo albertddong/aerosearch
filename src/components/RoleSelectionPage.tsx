@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import bgImage3 from '../assets/bg3.png';
 
 const roles = [
     'Executive / Plant Director',
@@ -19,7 +20,9 @@ const RoleSelectionPage: React.FC = () => {
     };
 
     return (
-        <div className="relative min-h-screen flex flex-col items-center justify-center overflow-hidden bg-black">
+        <div className="relative min-h-screen flex flex-col items-center justify-center overflow-hidden"
+            style={{ backgroundImage: `url(${bgImage3})` }}>
+
             {/* Title */}
             <div className="w-full flex items-center justify-center mb-12 px-16">
                 <div className="flex-1 border-t border-gray-600"></div>

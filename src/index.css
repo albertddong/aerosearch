@@ -1,4 +1,5 @@
 @tailwind base;
+@import "flowbite/src/themes/default";
 @tailwind components;
 @tailwind utilities;
 
@@ -20,3 +21,6 @@ body {
 .font-termina {
     font-family: 'Termina', sans-serif;
 }
+
+
+/* @import 'flowbite-plugin-charts'; */
