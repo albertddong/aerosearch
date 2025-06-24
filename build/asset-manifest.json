@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93efd996.css",
+    "main.js": "/static/js/main.36cf79ed.js",
+    "static/media/bg.mov": "/static/media/bg.91631d4cd86d5388bfea.mov",
+    "static/media/bg3.png": "/static/media/bg3.cc7f694a012dc8c03b5c.png",
+    "static/media/TerminaTest-Black.otf": "/static/media/TerminaTest-Black.b76d9318e4743a03755e.otf",
+    "static/media/aero.svg": "/static/media/aero.2018c7a3e5c6a4f315f7ca842f63301d.svg",
+    "static/media/icons8-search.svg": "/static/media/icons8-search.96a6f0f42094863e036e292ce1b267be.svg",
+    "index.html": "/index.html",
+    "main.93efd996.css.map": "/static/css/main.93efd996.css.map",
+    "main.36cf79ed.js.map": "/static/js/main.36cf79ed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93efd996.css",
+    "static/js/main.36cf79ed.js"
+  ]
+}
